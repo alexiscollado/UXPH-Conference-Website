@@ -1,0 +1,137 @@
+{
+  "_class": "shapePath",
+  "booleanOperation": -1,
+  "do_objectID": "C853A0BC-EC3C-4C8B-800B-1532F31E2616",
+  "edited": true,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 61.15771484375,
+    "width": 19.8330078125,
+    "x": 0,
+    "y": 0
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Path",
+  "nameIsFixed": false,
+  "path": {
+    "_class": "path",
+    "isClosed": true,
+    "pointRadiusBehaviour": 1,
+    "points": [
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0, 0.38739810460595125}",
+        "curveMode": 1,
+        "curveTo": "{0, 0.38739810460595125}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0, 0.38739810460595125}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.26126347924565463, 0.99085835642030806}",
+        "curveMode": 1,
+        "curveTo": "{0.26126347924565463, 0.99085835642030806}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.26126347924565463, 0.99085835642030806}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.4815968289920729, 0.98982044055536478}",
+        "curveMode": 2,
+        "curveTo": "{0.44673543749076799, 0.98982044055536478}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.4641661332414202, 0.98982044055536478}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.5145871288591265, 0.19622997021979866}",
+        "curveMode": 1,
+        "curveTo": "{0.5145871288591265, 0.19622997021979866}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.5145871288591265, 0.19622997021979866}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.63305677285932394, 0.99085835642030806}",
+        "curveMode": 1,
+        "curveTo": "{0.63305677285932394, 0.99085835642030806}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.63305677285932394, 0.99085835642030806}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.84892166034762928, 0.97257506926092419}",
+        "curveMode": 2,
+        "curveTo": "{0.85384558570092073, 1.009141643579692}",
+        "hasCurveFrom": true,
+        "hasCurveTo": true,
+        "point": "{0.85138362302427495, 0.99085835642030806}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{1, 0.37857981173803001}",
+        "curveMode": 1,
+        "curveTo": "{1, 0.37857981173803001}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{1, 0.37857981173803001}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.98615145994386888, 0.038562566366735593}",
+        "curveMode": 1,
+        "curveTo": "{0.98615145994386888, 0.038562566366735593}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.98615145994386888, 0.038562566366735593}"
+      },
+      {
+        "_class": "curvePoint",
+        "cornerRadius": 0,
+        "curveFrom": "{0.17724900290511594, 0}",
+        "curveMode": 1,
+        "curveTo": "{0.17724900290511594, 0}",
+        "hasCurveFrom": false,
+        "hasCurveTo": false,
+        "point": "{0.17724900290511594, 0}"
+      }
+    ]
+  },
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

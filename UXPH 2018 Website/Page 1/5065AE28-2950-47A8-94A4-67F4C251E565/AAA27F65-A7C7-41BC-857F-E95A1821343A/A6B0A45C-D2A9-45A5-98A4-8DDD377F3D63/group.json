@@ -1,0 +1,133 @@
+{
+  "_class": "group",
+  "do_objectID": "A6B0A45C-D2A9-45A5-98A4-8DDD377F3D63",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@2x",
+        "namingScheme": 0,
+        "scale": 2,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@3x",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@1.5x",
+        "namingScheme": 0,
+        "scale": 1.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "@0.5x",
+        "namingScheme": 0,
+        "scale": 0.5,
+        "visibleScaleType": 0
+      },
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "svg",
+        "name": "@svg",
+        "namingScheme": 0,
+        "scale": 0.5,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 363,
+    "width": 578,
+    "x": 0,
+    "y": 950
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B9544B9A-5C7E-419F-B338-91A41F00F74A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "ABA25BC8-98A5-47B4-B6AA-B2DBCBFA4FB2"
+    },
+    {
+      "class": "group",
+      "id": "A3718D62-F767-4B3B-AB5F-A6C0B723C615"
+    },
+    {
+      "class": "group",
+      "id": "A34C37AD-C054-4A1A-A676-E038B535C284"
+    },
+    {
+      "class": "group",
+      "id": "1BD4DF36-A97A-4573-BB25-9FB8956E460C"
+    },
+    {
+      "class": "group",
+      "id": "559BDC1B-4F13-4FFC-82C9-F628CFFA6C0C"
+    },
+    {
+      "class": "group",
+      "id": "DAA56771-A755-45D4-8594-7F2A14F6CCD9"
+    },
+    {
+      "class": "group",
+      "id": "692B857D-389C-476E-809A-06957DC0E35F"
+    }
+  ],
+  "name": "illustration_2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

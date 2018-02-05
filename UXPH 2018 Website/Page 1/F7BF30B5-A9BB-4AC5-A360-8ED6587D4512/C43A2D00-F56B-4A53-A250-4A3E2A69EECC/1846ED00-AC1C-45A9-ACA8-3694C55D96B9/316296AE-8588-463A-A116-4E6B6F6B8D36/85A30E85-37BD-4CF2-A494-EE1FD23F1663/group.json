@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "85A30E85-37BD-4CF2-A494-EE1FD23F1663",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 66,
+    "width": 32,
+    "x": 13,
+    "y": 85
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "BDAC8AAD-02D2-4411-9A44-6044B773D68B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F159EE4-CE7C-4714-8C05-03922F059148"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "70CDB469-6225-4D53-9655-F06758DB9487"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "079A9E2F-099C-423F-B31C-894C3BE524AD"
+    }
+  ],
+  "name": "Path + Path Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
